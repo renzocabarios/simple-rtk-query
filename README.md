@@ -2,7 +2,6 @@
 
 ## TODO
 
-- Setup redux toolkit
 - Add api slice/reducer with createAPI from rtk query
 - Create a GET to 'https://dummyjson.com/products'
 - Implement getProducts hook from api slice to App component
